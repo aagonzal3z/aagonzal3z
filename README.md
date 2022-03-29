@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps Engineering
 - 🌱 I’m currently learning DevOps Stack
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me => Phone Number
+- 📫 How to reach me => Email
 
 <!---
 aagonzal3z/aagonzal3z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
